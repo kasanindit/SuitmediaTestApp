@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SuitmediaTestApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/green</item>
+         <item name="colorOnPrimary">@color/white</item>
+
+         <item name="android:textColor">@color/black</item>
+         <item name="android:fontFamily">@font/poppins</item>
+
+
+
+
+    </style>
+
+    <style name="Theme.SuitmediaTestApp" parent="Base.Theme.SuitmediaTestApp" />
+</resources>
